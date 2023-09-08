@@ -24,7 +24,7 @@ public class BootjpaexampleApplication {
 		user.setStatus("On call");
 		User user1 = userrepositor.save(user);
 		System.out.println(user1);
-		
+		//sohel update
 //		// update the data
 //		Optional<User> optional =  userrepositor.findById(2);
 //		User update = optional.get();
